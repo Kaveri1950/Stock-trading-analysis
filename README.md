@@ -2,10 +2,6 @@
 
 A comprehensive, interactive web application for stock market analysis, technical indicator visualization, and AI-powered price forecasting. Built with Streamlit, this platform provides professional-grade trading analytics in an accessible interface.
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ## Live Demo
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://10.15.6.129:8501)
@@ -45,3 +41,4 @@ A comprehensive, interactive web application for stock market analysis, technica
    ```bash
    git clone https://github.com/Kaveri1950/Stock-trading-analysis.git
    cd Stock-trading-analysis
+
