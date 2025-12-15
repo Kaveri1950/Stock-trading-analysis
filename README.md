@@ -39,8 +39,9 @@ A comprehensive, interactive web application for stock market analysis, technica
    cd Stock-trading-analysis
 
 2.  Navigate to the project directory and start the Streamlit app by running the following on terminal:
-   ```bash
-   streamlit run stock.py.
+    ```bash
+    streamlit run stock.py.
+
 
 
 
