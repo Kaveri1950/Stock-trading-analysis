@@ -2,11 +2,7 @@
 
 A comprehensive, interactive web application for stock market analysis, technical indicator visualization, and AI-powered price forecasting. Built with Streamlit, this platform provides professional-grade trading analytics in an accessible interface.
 
-## Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://10.15.6.129:8501)
-
-**Live Application URL:** http://10.15.6.129:8501
 
 ## Features
 
@@ -41,4 +37,9 @@ A comprehensive, interactive web application for stock market analysis, technica
    ```bash
    git clone https://github.com/Kaveri1950/Stock-trading-analysis.git
    cd Stock-trading-analysis
+
+2.Navigate to the project directory and start the Streamlit app by running the following on terminal:
+  ```bash
+  streamlit run stock.py.
+
 
