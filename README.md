@@ -2,7 +2,8 @@
 
 A comprehensive, interactive web application for stock market analysis, technical indicator visualization, and AI-powered price forecasting. Built with Streamlit, this platform provides professional-grade trading analytics in an accessible interface.
 
-
+# Live App:
+https://stock-trading-analysis-itsw7zcwgwvtdciwp7aed4.streamlit.app/
 
 ## Features
 
@@ -41,3 +42,4 @@ A comprehensive, interactive web application for stock market analysis, technica
 2.  Navigate to the project directory and start the Streamlit app by running the following on terminal:
     ```bash
     streamlit run stock.py.
+
