@@ -9,3 +9,4 @@ yfinance
 scipy
 plotly
 pandas-ta
+ta
