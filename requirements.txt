@@ -8,3 +8,4 @@ statsmodels
 yfinance
 scipy
 plotly
+pandas-ta
