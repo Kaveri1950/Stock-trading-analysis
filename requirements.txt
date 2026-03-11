@@ -8,5 +8,4 @@ statsmodels
 yfinance
 scipy
 plotly
-pandas-ta
-ta
+git+https://github.com/twopirllc/pandas-ta.git
